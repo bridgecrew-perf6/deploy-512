@@ -1,0 +1,24 @@
+{
+    "dependencies": {
+        "express": "^4.17.2"
+    },
+    "name": "deploy",
+    "version": "1.0.0",
+    "main": "index.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "node index"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rovh/deploy.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rovh/deploy/issues"
+    },
+    "homepage": "https://github.com/rovh/deploy#readme",
+    "description": ""
+}
